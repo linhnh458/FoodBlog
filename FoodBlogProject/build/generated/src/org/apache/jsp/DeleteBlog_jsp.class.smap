@@ -1,0 +1,17 @@
+SMAP
+DeleteBlog_jsp.java
+JSP
+*S JSP
+*F
++ 0 DeleteBlog.jsp
+DeleteBlog.jsp
+*L
+1,110:54
+110:232,11
+111:243
+112,4:244,3
+116:256
+117:257,3
+118,5:260
+122,49:166
+*E

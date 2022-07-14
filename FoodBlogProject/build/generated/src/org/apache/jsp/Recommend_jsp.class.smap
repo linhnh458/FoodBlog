@@ -1,0 +1,28 @@
+SMAP
+Recommend_jsp.java
+JSP
+*S JSP
+*F
++ 0 Recommend.jsp
+Recommend.jsp
++ 1 Header.jsp
+Component/Header.jsp
++ 2 Footer.jsp
+Component/Footer.jsp
+*L
+1,79:60
+5#1,26:139
+30:338,8
+31,4:346
+34,2:167
+35:368,8
+36:376
+37:377,3
+38,7:380
+44,13:171
+79#0,53:183
+5#2,49:236
+54:285,3
+55,7:288
+131#0,27:294
+*E
